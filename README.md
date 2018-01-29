@@ -35,7 +35,6 @@ A utility for students and advisors alike to track and plan a student's academic
 - Implement proper logging framework
 - Documentation: User's Guide
 - Code clean-up: identify and remove deprecated classes, methods, and other files
-- Move tests into proper test directory (src\test\java)
 - Map/course explorer
 - Drop shadow preview when moving courses
 
@@ -57,6 +56,7 @@ A utility for students and advisors alike to track and plan a student's academic
 - Make right-click context menus work instead of having to use my bizzare keyboard shortcut
 - Add "About" message
 - Make dragging less derpy
+- Move tests into proper test directory (src\test\java)
 
 ## Pre-deployment checklist
 - All fixes fixed
