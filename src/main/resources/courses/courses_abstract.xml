@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<compscicourses>
+	<course id="HU 14X">
+		<title>Lower Level Humanities</title>
+		<credits>3</credits>
+	</course>
+	<course id="Sp. Elect. 1">
+		<title>Specified Elective 1</title>
+		<credits>3</credits>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="SS 1XX">
+		<title>Lower Level Social Science elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="HU/SS 3/4XX">
+		<title>HU/SS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="Sp. Elect. 2">
+		<title>Specified Elective 2</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>Sp. Elect. 1</courseid>
+		</prereqs>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="Sp. Elect. 3">
+		<title>Specified Elective 3</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>Sp. Elect. 2</courseid>
+		</prereqs>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS/SE/CEC/SYS upper-level">
+		<title>CS/SE/CEC/SYS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS/SE/CEC/SYS upper-level">
+		<title>CS/SE/CEC/SYS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="OPEN ELECTIVE">
+		<title>Open Elective</title>
+		<credits>3</credits>		
+	</course>
+</compscicourses>
+

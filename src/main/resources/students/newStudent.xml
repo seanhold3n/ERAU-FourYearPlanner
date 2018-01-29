@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentplan>
+    <semester type="FA" year="1">
+        <class _id="COM 122" grade="NULL"/>
+        <class _id="HU 14X" grade="NULL"/>
+        <class _id="UNI 101" grade="NULL"/>
+        <class _id="PS 150" grade="NULL"/>
+        <class _id="MA 241" grade="NULL"/>
+    </semester>
+    <semester type="SP" year="1">
+        <class _id="COM 219" grade="NULL"/>
+        <class _id="COM 221" grade="NULL"/>
+        <class _id="EGR 115" grade="NULL"/>
+        <class _id="PS 160" grade="NULL"/>
+        <class _id="MA 242" grade="NULL"/>
+    </semester>
+    <semester type="FA" year="2">
+        <class _id="CEC 220" grade="NULL"/>
+        <class _id="CS 222" grade="NULL"/>
+        <class _id="CS 225" grade="NULL"/>
+        <class _id="PS 250" grade="NULL"/>
+        <class _id="PS 253" grade="NULL"/>
+        <class _id="MA 245" grade="NULL"/>
+    </semester>
+    <semester type="SP" year="2">
+        <class _id="MA 348" grade="NULL"/>
+        <class _id="SE 300" grade="NULL"/>
+        <class _id="CS 317" grade="NULL"/>
+        <class _id="CS 315" grade="NULL"/>
+        <class _id="CS 332" grade="NULL"/>
+    </semester>
+    <semester type="FA" year="3">
+        <class _id="CEC 470" grade="NULL"/>
+        <class _id="Sp. Elect. 1" grade="NULL"/>
+        <class _id="SS 1XX" grade="NULL"/>
+        <class _id="CS 344" grade="NULL"/>
+        <class _id="MA 3/400" grade="NULL"/>
+    </semester>
+    <semester type="SP" year="3">
+        <class _id="HU/SS 3/4XX" grade="NULL"/>
+        <class _id="Sp. Elect. 2" grade="NULL"/>
+        <class _id="CS 420" grade="NULL"/>
+        <class _id="MA 3/400" grade="NULL"/>
+    </semester>
+    <semester type="FA" year="4">
+        <class _id="CS 490" grade="NULL"/>
+        <class _id="Sp. Elect. 3" grade="NULL"/>
+        <class _id="MA 3/400" grade="NULL"/>
+        <class _id="CS/SE/CEC/SYS upper-level" grade="NULL"/>
+        <class _id="CS/SE/CEC/SYS upper-level" grade="NULL"/>
+    </semester>
+    <semester type="SP" year="4">
+        <class _id="CS 491" grade="NULL"/>
+        <class _id="OPEN ELECTIVE" grade="NULL"/>
+        <class _id="SE 420" grade="NULL"/>
+        <class _id="SE 320" grade="NULL"/>
+    </semester>
+</studentplan>

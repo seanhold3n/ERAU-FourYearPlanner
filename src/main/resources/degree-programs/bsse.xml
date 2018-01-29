@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentplan program="BS Software Engineering 2015">
+    <semester type="FA" year="1">
+        <class _id="COM 122"/>
+        <class _id="EGR 101"/>
+        <class _id="HU 14X" moddable="true"/>
+        <class _id="UNI 101"/>
+        <class _id="PS 150"/>
+        <class _id="MA 241"/>
+    </semester>
+    <semester type="SP" year="1">
+        <class _id="COM 219"/>
+        <class _id="CS 223"/>
+        <class _id="MA 242"/>
+        <class _id="PS 160"/>
+        <class _id="SS 1XX" moddable="true"/>
+    </semester>
+    <semester type="FA" year="2">
+        <class _id="AS 120"/>
+        <class _id="CEC 220"/>
+        <class _id="CEC 222"/>
+        <class _id="CS 225"/>
+        <class _id="PS 250"/>
+        <class _id="PS 253"/>
+    </semester>
+    <semester type="SP" year="2">
+        <class _id="CEC 320"/>
+        <class _id="CEC 322"/>
+        <class _id="COM 221"/>
+        <class _id="CS 222"/>
+        <class _id="SE 300"/>
+    </semester>
+    <semester type="FA" year="3">
+        <class _id="CEC 470"/>
+        <class _id="CS 332"/>
+        <class _id="CS 420"/>
+        <class _id="EC 225"/>
+        <class _id="SE 310"/>
+    </semester>
+    <semester type="SP" year="3">
+        <class _id="CEC 450"/>
+        <class _id="CS 317"/>
+        <class _id="HU/SS 3/4XX" moddable="true"/>
+        <class _id="MA 3/400" moddable="true"/>
+        <class _id="MA 412"/>
+        <class _id="SE 320"/>
+    </semester>
+    <semester type="FA" year="4">
+        <class _id="CS/SE/CEC/SYS upper-level" moddable="true"/>
+        <class _id="MA 3/400" moddable="true"/>
+        <class _id="SE 410"/>
+        <class _id="SE 450"/>
+        <class _id="Sp. Elect. 1" moddable="true"/>
+    </semester>
+    <semester type="SP" year="4">
+        <class _id="SE 451"/>
+        <class _id="OPEN ELECTIVE" moddable="true"/>
+        <class _id="SE 420"/>
+        <class _id="Sp. Elect. 2" moddable="true"/>
+        <class _id="Sp. Elect. 3" moddable="true"/>
+    </semester>
+</studentplan>

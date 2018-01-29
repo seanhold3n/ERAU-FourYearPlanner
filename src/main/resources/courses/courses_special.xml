@@ -1,0 +1,10 @@
+<courses>
+    <course id="CS 395P">
+		<title>Cybersecurity Engineering</title>
+		<credits>3</credits>
+	</course>
+    <course id="MA 495G">
+		<title>Data Mining</title>
+		<credits>3</credits>
+	</course>
+</courses>

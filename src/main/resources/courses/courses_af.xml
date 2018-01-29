@@ -1,0 +1,13 @@
+<courses>
+    <course id="AF 101L">
+		<title>Leadership Laboratory</title>
+		<credits>0</credits>
+	</course>
+    <course id="AF 102L">
+		<title>Leadership Laboratory</title>
+		<credits>0</credits>
+		<prereqs type="or">
+			<courseid>AF 101L</courseid>
+		</prereqs>
+	</course>
+</courses>

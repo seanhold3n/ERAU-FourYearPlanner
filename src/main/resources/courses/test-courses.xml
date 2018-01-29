@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<compscicourses>
+	<course id="COM 122">
+		<title>English Composition</title>
+		<credits>3</credits>
+	</course>
+	<course id="HU 14X">
+		<title>Lower Level Humanities</title>
+		<credits>3</credits>
+	</course>
+	<course id="UNI 101">
+		<title>Introduction to Engineering</title>
+		<credits>1</credits>
+	</course>
+	<course id="PS 150">
+		<title>Physics I for Scientists and Engineering</title>
+		<credits>3</credits>
+	</course>
+	<course id="MA 241">
+		<title>Calculus and Analytical Geometry I</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>MA 143</courseid>
+		</prereqs>
+	</course>
+	<course id="COM 219">
+		<title>Speech</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>COM 122</courseid>
+		</prereqs>
+	</course>
+	<course id="COM 221">
+		<title>Technical Report Writing</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>HU 14X</courseid>
+		</prereqs>
+	</course>
+	<course id="EGR 115">
+		<title>Introduction to computing for engineers</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>MA 111</courseid>
+			<courseid>MA 112</courseid>
+		</prereqs>
+	</course>
+	<course id="PS 160">
+		<title>Physics II for scientists and engineers </title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>PS 150</courseid>
+		</prereqs>
+	</course>
+	<course id="MA 242">
+		<title>Calculus and Analytical Geometry II </title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>MA 241</courseid>
+		</prereqs>
+	</course>
+	<course id="CEC 220">
+		<title>Digital Circuit Design</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>CEC 222</courseid>
+		</prereqs>
+	</course>
+	<course id="CS 222">
+		<title>Introduction to Discrete Structures</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS 225">
+		<title>Computer Science II</title>
+		<credits>4</credits>		
+	</course>
+	<course id="PS 250">
+		<title>Physics III for Scientists and Engineers</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>PS 160</courseid>
+		</prereqs>
+	</course>
+	<course id="PS 253">
+		<title>Physics Lab</title>
+		<credits>1</credits>		
+		<prereqs type="or">
+			<courseid>PS 160</courseid>
+		</prereqs>
+	</course>
+	<course id="MA 245">
+		<title>Applied Differential Equations</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>MA 242</courseid>
+		</prereqs>
+	</course>
+	<course id="MA 348">
+		<title>Numerical Analysis I</title>
+		<credits>3</credits>		
+	</course>
+	<course id="SE 300">
+		<title>Software Engineering Practices</title>
+		<credits>4</credits>		
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+		</prereqs>
+	</course>
+	<course id="CS 317">
+		<title>Files and Database Systems</title>
+		<credits>3</credits>		
+		<whenoffered>Spring</whenoffered>
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+			<courseid>CS 222</courseid>
+		</prereqs>
+	</course>
+	<course id="CS 315">
+		<title>Data Structures and Analysis of Algorithms</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+			<courseid>CS 222</courseid>
+		</prereqs>
+	</course>
+	<course id="CS 332">
+		<title>Organization of Programming Languages</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+			<courseid>CS 222</courseid>
+		</prereqs>
+	</course>
+	<course id="CEC 470">
+		<title>Computer Architecture</title>
+		<credits>3</credits>		
+		<whenoffered>Fall</whenoffered>
+		<prereqs type="or">
+			<courseid>CEC 320</courseid>
+		</prereqs>
+	</course>
+	<course id="Sp. Elect. 1">
+		<title>Specified Elective 1</title>
+		<credits>3</credits>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="SS 1XX">
+		<title>Lower Level Social Science elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS 344">
+		<title>C Programming and UNIX</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+		</prereqs>
+	</course>
+	<course id="HU/SS 3/4XX">
+		<title>HU/SS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="Sp. Elect. 2">
+		<title>Specified Elective 2</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>Sp. Elect. 1</courseid>
+		</prereqs>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS 420">
+		<title>Operating Systems</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>CS 225</courseid>
+		</prereqs>
+	</course>
+	<course id="CS 490">
+		<title>Computer Science Capstone Design I</title>
+		<credits>3</credits>		
+		<whenoffered>Fall</whenoffered>
+		<prereqs type="or">
+			<courseid>SE 300</courseid>
+		</prereqs>
+	</course>
+	<course id="Sp. Elect. 3">
+		<title>Specified Elective 3</title>
+		<credits>3</credits>
+		<prereqs type="or">
+			<courseid>Sp. Elect. 2</courseid>
+		</prereqs>		
+	</course>
+	<course id="MA 3/400">
+		<title>MA elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS/SE/CEC/SYS upper-level">
+		<title>CS/SE/CEC/SYS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS/SE/CEC/SYS upper-level">
+		<title>CS/SE/CEC/SYS Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="CS 491">
+		<title>Computer Science Capstone Design II</title>
+		<credits>3</credits>		
+		<whenoffered>Spring</whenoffered>
+		<prereqs type="or">
+			<courseid>CS 490</courseid>
+		</prereqs>
+	</course>
+	<course id="OPEN ELECTIVE">
+		<title>Open Elective</title>
+		<credits>3</credits>		
+	</course>
+	<course id="SE 420">
+		<title>Software Quality Assurance</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>SE 300</courseid>
+		</prereqs>
+	</course>
+	<course id="SE 320">
+		<title>Software Construction</title>
+		<credits>3</credits>		
+		<prereqs type="or">
+			<courseid>SE 300</courseid>
+		</prereqs>
+	</course>
+</compscicourses>
+
